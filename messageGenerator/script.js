@@ -30,3 +30,5 @@ function formatMessage() {
 }
 
 formatMessage();
+
+// Sample output - Hey! you know? you are a hard worker and that makes you special.
